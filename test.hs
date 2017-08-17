@@ -1,5 +1,5 @@
 f :: Int -> Int -> [Int]
-f n l = concat $ map (replicate l) [0..n]
+f n l = concatMap (replicate l) [0..n]
 
 main :: IO ()
 main

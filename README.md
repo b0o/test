@@ -4,7 +4,7 @@
 $ ghc -o test-hs test.hs
 $ time ./test-hs
 100010000
-./test-hs  3.39s user 0.02s system 99% cpu 3.409 total
+./test-hs  3.42s user 0.01s system 99% cpu 3.426 total
 ```
 
 ### Go
