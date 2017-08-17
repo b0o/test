@@ -19,6 +19,7 @@ $ time ./test-go
 ### JavaScript
 
 ```
+$ time node test.js
 <--- Last few GCs --->
 
 [12334:0xba94671b70]     1150 ms: Mark-sweep 577.1 (583.8) -> 577.1 (583.8) MB, 49.8 / 0.0 ms  allocation failure GC in old space requested
