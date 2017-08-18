@@ -64,3 +64,11 @@ $ time python test.py
 100010000
 python test.py  7.68s user 0.11s system 99% cpu 7.826 total
 ```
+
+### Elixir
+
+```shell
+time elixir test.exs
+100010000
+elixir test.exs  8.91s user 1.20s system 100% cpu 10.018 total
+```
