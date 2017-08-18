@@ -70,5 +70,5 @@ python test.py  7.68s user 0.11s system 99% cpu 7.826 total
 ```shell
 $ time elixir test.exs
 100010000
-elixir test.exs  8.91s user 1.20s system 100% cpu 10.018 total
+elixir test.exs  4.64s user 0.08s system 101% cpu 4.637 total
 ```
